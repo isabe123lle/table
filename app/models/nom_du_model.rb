@@ -1,0 +1,2 @@
+class NomDuModel < ApplicationRecord
+end
